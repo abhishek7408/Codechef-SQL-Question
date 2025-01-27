@@ -1,1 +1,1 @@
-# Codechef-SQL-Question
+# Codechef-SQL-Questions
